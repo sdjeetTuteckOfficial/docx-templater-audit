@@ -1,0 +1,234 @@
+[
+  {
+    "key": "css:S4649",
+    "name": "Font declarations should contain at least one generic font family",
+    "lang": "css",
+    "status": "READY",
+    "langName": "CSS",
+    "data": {
+      "total": 3,
+      "p": 1,
+      "ps": 100,
+      "paging": {
+        "pageIndex": 1,
+        "pageSize": 100,
+        "total": 3
+      },
+      "effortTotal": 3,
+      "issues": [
+        {
+          "key": "a342984a-fb42-414c-b58a-bf72b1ebe1c5",
+          "rule": "css:S4649",
+          "severity": "MAJOR",
+          "component": "IBet-Games-Landing-Page:src/app/home-page/landing-page/landing-page.component.css",
+          "project": "IBet-Games-Landing-Page",
+          "line": 443,
+          "hash": "8d57a57d6b950c1b2dd5be96a9308fbb",
+          "textRange": {
+            "startLine": 443,
+            "endLine": 443,
+            "startOffset": 0,
+            "endOffset": 34
+          },
+          "flows": [],
+          "status": "OPEN",
+          "message": "Unexpected missing generic font family",
+          "effort": "1min",
+          "debt": "1min",
+          "author": "akshra.bhardwaj@novoinvent.com",
+          "tags": [],
+          "creationDate": "2024-04-08T20:49:01+0000",
+          "updateDate": "2024-11-22T09:33:04+0000",
+          "type": "BUG",
+          "scope": "MAIN",
+          "quickFixAvailable": false,
+          "messageFormattings": [],
+          "codeVariants": [],
+          "cleanCodeAttribute": "COMPLETE",
+          "cleanCodeAttributeCategory": "INTENTIONAL",
+          "impacts": [
+            {
+              "softwareQuality": "RELIABILITY",
+              "severity": "MEDIUM"
+            }
+          ],
+          "issueStatus": "OPEN",
+          "prioritizedRule": false
+        },
+        {
+          "key": "c3928c2f-1ecb-4806-9772-86c374d4f22a",
+          "rule": "css:S4649",
+          "severity": "MAJOR",
+          "component": "IBet-Games-Landing-Page:src/app/home-page/landing-page/landing-page.component.css",
+          "project": "IBet-Games-Landing-Page",
+          "line": 465,
+          "hash": "8d57a57d6b950c1b2dd5be96a9308fbb",
+          "textRange": {
+            "startLine": 465,
+            "endLine": 465,
+            "startOffset": 0,
+            "endOffset": 34
+          },
+          "flows": [],
+          "status": "OPEN",
+          "message": "Unexpected missing generic font family",
+          "effort": "1min",
+          "debt": "1min",
+          "author": "akshra.bhardwaj@novoinvent.com",
+          "tags": [],
+          "creationDate": "2024-04-08T20:49:01+0000",
+          "updateDate": "2024-11-22T09:33:04+0000",
+          "type": "BUG",
+          "scope": "MAIN",
+          "quickFixAvailable": false,
+          "messageFormattings": [],
+          "codeVariants": [],
+          "cleanCodeAttribute": "COMPLETE",
+          "cleanCodeAttributeCategory": "INTENTIONAL",
+          "impacts": [
+            {
+              "softwareQuality": "RELIABILITY",
+              "severity": "MEDIUM"
+            }
+          ],
+          "issueStatus": "OPEN",
+          "prioritizedRule": false
+        },
+        {
+          "key": "7f9fa869-cf44-4531-ba26-c2079d75fa26",
+          "rule": "css:S4649",
+          "severity": "MAJOR",
+          "component": "IBet-Games-Landing-Page:src/app/home-page/landing-page/landing-page.component.css",
+          "project": "IBet-Games-Landing-Page",
+          "line": 488,
+          "hash": "8d57a57d6b950c1b2dd5be96a9308fbb",
+          "textRange": {
+            "startLine": 488,
+            "endLine": 488,
+            "startOffset": 0,
+            "endOffset": 34
+          },
+          "flows": [],
+          "status": "OPEN",
+          "message": "Unexpected missing generic font family",
+          "effort": "1min",
+          "debt": "1min",
+          "author": "akshra.bhardwaj@novoinvent.com",
+          "tags": [],
+          "creationDate": "2024-04-08T20:49:01+0000",
+          "updateDate": "2024-11-22T09:33:04+0000",
+          "type": "BUG",
+          "scope": "MAIN",
+          "quickFixAvailable": false,
+          "messageFormattings": [],
+          "codeVariants": [],
+          "cleanCodeAttribute": "COMPLETE",
+          "cleanCodeAttributeCategory": "INTENTIONAL",
+          "impacts": [
+            {
+              "softwareQuality": "RELIABILITY",
+              "severity": "MEDIUM"
+            }
+          ],
+          "issueStatus": "OPEN",
+          "prioritizedRule": false
+        }
+      ],
+      "components": [
+        {
+          "key": "IBet-Games-Landing-Page:src/app/home-page/landing-page/landing-page.component.css",
+          "enabled": true,
+          "qualifier": "FIL",
+          "name": "landing-page.component.css",
+          "longName": "src/app/home-page/landing-page/landing-page.component.css",
+          "path": "src/app/home-page/landing-page/landing-page.component.css"
+        },
+        {
+          "key": "IBet-Games-Landing-Page",
+          "enabled": true,
+          "qualifier": "TRK",
+          "name": "IBet-Games-Landing-Page",
+          "longName": "IBet-Games-Landing-Page"
+        }
+      ],
+      "facets": []
+    }
+  },
+  {
+    "key": "javascript:S6535",
+    "name": "Unnecessary character escapes should be removed",
+    "lang": "js",
+    "status": "READY",
+    "langName": "JavaScript",
+    "data": {
+      "total": 1,
+      "p": 1,
+      "ps": 100,
+      "paging": {
+        "pageIndex": 1,
+        "pageSize": 100,
+        "total": 1
+      },
+      "effortTotal": 5,
+      "issues": [
+        {
+          "key": "e841472b-b27b-4e62-9dba-75889e5ecaa6",
+          "rule": "javascript:S6535",
+          "severity": "MAJOR",
+          "component": "IBet-Games-Landing-Page:versioning.build.js",
+          "project": "IBet-Games-Landing-Page",
+          "line": 25,
+          "hash": "d93ca4ca280840c25f0449f700e91c2b",
+          "textRange": {
+            "startLine": 25,
+            "endLine": 25,
+            "startOffset": 85,
+            "endOffset": 86
+          },
+          "flows": [],
+          "status": "OPEN",
+          "message": "Unnecessary escape character: \\-.",
+          "effort": "5min",
+          "debt": "5min",
+          "author": "akshra.bhardwaj@novoinvent.com",
+          "tags": [],
+          "creationDate": "2024-04-08T20:49:01+0000",
+          "updateDate": "2024-11-22T09:33:04+0000",
+          "type": "CODE_SMELL",
+          "scope": "MAIN",
+          "quickFixAvailable": true,
+          "messageFormattings": [],
+          "codeVariants": [],
+          "cleanCodeAttribute": "CLEAR",
+          "cleanCodeAttributeCategory": "INTENTIONAL",
+          "impacts": [
+            {
+              "softwareQuality": "MAINTAINABILITY",
+              "severity": "MEDIUM"
+            }
+          ],
+          "issueStatus": "OPEN",
+          "prioritizedRule": false
+        }
+      ],
+      "components": [
+        {
+          "key": "IBet-Games-Landing-Page",
+          "enabled": true,
+          "qualifier": "TRK",
+          "name": "IBet-Games-Landing-Page",
+          "longName": "IBet-Games-Landing-Page"
+        },
+        {
+          "key": "IBet-Games-Landing-Page:versioning.build.js",
+          "enabled": true,
+          "qualifier": "FIL",
+          "name": "versioning.build.js",
+          "longName": "versioning.build.js",
+          "path": "versioning.build.js"
+        }
+      ],
+      "facets": []
+    }
+  }
+]
